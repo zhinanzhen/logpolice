@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.rjpk.logpolice.autoconfigure.LogpoliceAutoConfiguration,\
+com.rjpk.logpolice.autoconfigure.LogpoliceLoclCacheAutoConfiguration,\
+com.rjpk.logpolice.autoconfigure.LogpoliceMailAutoConfiguration
